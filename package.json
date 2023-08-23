@@ -1,0 +1,12 @@
+{
+  "name": "first-web-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dateandtime.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
